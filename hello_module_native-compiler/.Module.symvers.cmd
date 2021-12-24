@@ -1,0 +1,1 @@
+cmd_/home/sai25goud/Documents/hello_module_native-compiler/Module.symvers := sed 's/ko$$/o/' /home/sai25goud/Documents/hello_module_native-compiler/modules.order | scripts/mod/modpost -m -a   -o /home/sai25goud/Documents/hello_module_native-compiler/Module.symvers -e -i Module.symvers   -T -
