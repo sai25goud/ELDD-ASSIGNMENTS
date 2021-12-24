@@ -1,16 +1,14 @@
 PWD := $(shell pwd)
 KERNEL_DIR = /lib/modules/$(shell uname -r)/build/
-
-obj-m := ../ADD_MOD/add_mod.o avg_mod.o
+obj-m := avg_mod.o ../ADD_MOD/add_mod.o
 
 default:
 	$(MAKE) -C $(KERNEL_DIR) M=$(PWD) modules
 
 install:
-	$(MAKE) -C $(KERNEL_DIR) M=$(PWD) install_modules
+	$(MAKE) -C $(KERNEL_DIR) M=$(PWD) modules_install
 	depmod -a
 
 clean:
 	$(MAKE) -C $(KERNEL_DIR) M=$(PWD) clean
 	rm -rf /lib/modules/$(shell uname -r)/extra/*
-
