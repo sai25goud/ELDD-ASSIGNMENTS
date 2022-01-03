@@ -1,2 +1,2 @@
-/home/sai25goud/Documents/exporting_symbols/kern_sym.o
+/home/sai25goud/Documents/ELDD-ASSIGNMENTS/exporting_symbols/kern_sym.o
 

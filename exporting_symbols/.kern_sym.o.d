@@ -1,4 +1,5 @@
-kern_sym.o: /home/sai25goud/Documents/exporting_symbols/kern_sym.c \
+kern_sym.o: \
+ /home/sai25goud/Documents/ELDD-ASSIGNMENTS/exporting_symbols/kern_sym.c \
  include/linux/kconfig.h include/generated/autoconf.h \
  include/linux/compiler_types.h include/linux/compiler_attributes.h \
  include/linux/compiler-gcc.h include/linux/init.h \

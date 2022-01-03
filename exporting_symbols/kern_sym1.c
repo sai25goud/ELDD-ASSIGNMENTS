@@ -4,7 +4,7 @@
 #include "my_add.h"
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("i am");
+MODULE_AUTHOR("sai kiran goud");
 MODULE_DESCRIPTION("exporting symbols module");
 
 static int one=1;
