@@ -1,1 +1,1 @@
-cmd_/home/sai25goud/Documents/parameter_passing/Module.symvers := sed 's/ko$$/o/' /home/sai25goud/Documents/parameter_passing/modules.order | scripts/mod/modpost -m -a   -o /home/sai25goud/Documents/parameter_passing/Module.symvers -e -i Module.symvers   -T -
+cmd_/home/sai25goud/Documents/ELDD-ASSIGNMENTS/parameter_passing/Module.symvers := sed 's/ko$$/o/' /home/sai25goud/Documents/ELDD-ASSIGNMENTS/parameter_passing/modules.order | scripts/mod/modpost -m -a   -o /home/sai25goud/Documents/ELDD-ASSIGNMENTS/parameter_passing/Module.symvers -e -i Module.symvers   -T -
