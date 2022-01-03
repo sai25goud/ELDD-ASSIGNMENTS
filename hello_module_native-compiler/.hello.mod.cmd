@@ -1,1 +1,1 @@
-cmd_/home/sai25goud/Documents/hello_module_native-compiler/hello.mod := { echo  /home/sai25goud/Documents/hello_module_native-compiler/hello.o;  echo; } > /home/sai25goud/Documents/hello_module_native-compiler/hello.mod
+cmd_/home/sai25goud/Documents/ELDD-ASSIGNMENTS/hello_module_native-compiler/hello.mod := { echo  /home/sai25goud/Documents/ELDD-ASSIGNMENTS/hello_module_native-compiler/hello.o;  echo; } > /home/sai25goud/Documents/ELDD-ASSIGNMENTS/hello_module_native-compiler/hello.mod

@@ -1,1 +1,1 @@
-cmd_/home/sai25goud/Documents/hello_module_native-compiler/modules.order := {   echo /home/sai25goud/Documents/hello_module_native-compiler/hello.ko; :; } | awk '!x[$$0]++' - > /home/sai25goud/Documents/hello_module_native-compiler/modules.order
+cmd_/home/sai25goud/Documents/ELDD-ASSIGNMENTS/hello_module_native-compiler/modules.order := {   echo /home/sai25goud/Documents/ELDD-ASSIGNMENTS/hello_module_native-compiler/hello.ko; :; } | awk '!x[$$0]++' - > /home/sai25goud/Documents/ELDD-ASSIGNMENTS/hello_module_native-compiler/modules.order
