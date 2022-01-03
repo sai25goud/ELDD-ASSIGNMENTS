@@ -4,7 +4,7 @@
 #include<linux/moduleparam.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("i am");
+MODULE_AUTHOR("sai kiran goud");
 MODULE_DESCRIPTION("modprobe module");
 
 int my_add(int a,int b)

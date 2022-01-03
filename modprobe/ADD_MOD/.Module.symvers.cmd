@@ -1,1 +1,0 @@
-cmd_/home/sai25goud/Documents/ELDD-ASSIGNMENTS/modprobe/ADD_MOD/Module.symvers := sed 's/ko$$/o/' /home/sai25goud/Documents/ELDD-ASSIGNMENTS/modprobe/ADD_MOD/modules.order | scripts/mod/modpost -m -a   -o /home/sai25goud/Documents/ELDD-ASSIGNMENTS/modprobe/ADD_MOD/Module.symvers -e -i Module.symvers   -T -

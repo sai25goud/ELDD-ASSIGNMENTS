@@ -1,5 +1,5 @@
 add_mod.o: \
- /home/sai25goud/Documents/ELDD-ASSIGNMENTS/modprobe/AVG_MOD/../ADD_MOD/add_mod.c \
+ /home/sai25goud/Documents/ELDD-ASSIGNMENTS/modprobe/ADD_MOD/add_mod.c \
  include/linux/kconfig.h include/generated/autoconf.h \
  include/linux/compiler_types.h include/linux/compiler_attributes.h \
  include/linux/compiler-gcc.h include/linux/init.h \
