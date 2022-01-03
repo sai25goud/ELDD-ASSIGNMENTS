@@ -1,1 +1,1 @@
-cmd_/home/sai25goud/Documents/parameter_passing_array/para.mod := { echo  /home/sai25goud/Documents/parameter_passing_array/para.o;  echo; } > /home/sai25goud/Documents/parameter_passing_array/para.mod
+cmd_/home/sai25goud/Documents/ELDD-ASSIGNMENTS/parameter_passing_array/para.mod := { echo  /home/sai25goud/Documents/ELDD-ASSIGNMENTS/parameter_passing_array/para.o;  echo; } > /home/sai25goud/Documents/ELDD-ASSIGNMENTS/parameter_passing_array/para.mod

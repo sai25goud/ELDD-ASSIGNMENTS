@@ -1,2 +1,2 @@
-/home/sai25goud/Documents/parameter_passing_array/para.o
+/home/sai25goud/Documents/ELDD-ASSIGNMENTS/parameter_passing_array/para.o
 

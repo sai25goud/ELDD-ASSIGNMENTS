@@ -4,7 +4,7 @@
 #include<linux/stat.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("i am");
+MODULE_AUTHOR("sai kiran goud");
 MODULE_DESCRIPTION("array kernel module");
 
 static int arr[5]={0};
