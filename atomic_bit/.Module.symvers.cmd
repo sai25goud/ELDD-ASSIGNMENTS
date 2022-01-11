@@ -1,0 +1,1 @@
+cmd_/home/sai25goud/Documents/atomic_bit/Module.symvers := sed 's/ko$$/o/' /home/sai25goud/Documents/atomic_bit/modules.order | scripts/mod/modpost -m -a   -o /home/sai25goud/Documents/atomic_bit/Module.symvers -e -i Module.symvers   -T -
