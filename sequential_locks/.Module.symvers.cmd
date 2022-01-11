@@ -1,0 +1,1 @@
+cmd_/home/sai25goud/Documents/sequential_locks/Module.symvers := sed 's/ko$$/o/' /home/sai25goud/Documents/sequential_locks/modules.order | scripts/mod/modpost -m -a   -o /home/sai25goud/Documents/sequential_locks/Module.symvers -e -i Module.symvers   -T -
