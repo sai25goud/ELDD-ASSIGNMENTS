@@ -1,0 +1,1 @@
+cmd_/home/sai25goud/Documents/mul_chardev/chardev4.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/sai25goud/Documents/mul_chardev/chardev4.ko /home/sai25goud/Documents/mul_chardev/chardev4.o /home/sai25goud/Documents/mul_chardev/chardev4.mod.o;  true
