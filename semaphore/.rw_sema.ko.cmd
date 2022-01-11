@@ -1,0 +1,1 @@
+cmd_/home/sai25goud/Documents/semaphore/rw_sema.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/sai25goud/Documents/semaphore/rw_sema.ko /home/sai25goud/Documents/semaphore/rw_sema.o /home/sai25goud/Documents/semaphore/rw_sema.mod.o;  true
