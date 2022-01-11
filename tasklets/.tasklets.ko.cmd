@@ -1,0 +1,1 @@
+cmd_/home/sai25goud/Documents/tasklets/tasklets.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/sai25goud/Documents/tasklets/tasklets.ko /home/sai25goud/Documents/tasklets/tasklets.o /home/sai25goud/Documents/tasklets/tasklets.mod.o;  true
