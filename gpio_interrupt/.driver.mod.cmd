@@ -1,0 +1,1 @@
+cmd_/home/sai25goud/Documents/ELDD-ASSIGNMENTS/gpio_interrupt/driver.mod := { echo  /home/sai25goud/Documents/ELDD-ASSIGNMENTS/gpio_interrupt/driver.o;  echo; } > /home/sai25goud/Documents/ELDD-ASSIGNMENTS/gpio_interrupt/driver.mod
