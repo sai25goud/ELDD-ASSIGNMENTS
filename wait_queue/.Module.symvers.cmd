@@ -1,0 +1,1 @@
+cmd_/home/sai25goud/Documents/wait_queue/Module.symvers := sed 's/ko$$/o/' /home/sai25goud/Documents/wait_queue/modules.order | scripts/mod/modpost -m -a   -o /home/sai25goud/Documents/wait_queue/Module.symvers -e -i Module.symvers   -T -
