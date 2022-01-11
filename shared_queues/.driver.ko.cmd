@@ -1,0 +1,1 @@
+cmd_/home/sai25goud/Documents/ELDD-ASSIGNMENTS/shared_queues/driver.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/sai25goud/Documents/ELDD-ASSIGNMENTS/shared_queues/driver.ko /home/sai25goud/Documents/ELDD-ASSIGNMENTS/shared_queues/driver.o /home/sai25goud/Documents/ELDD-ASSIGNMENTS/shared_queues/driver.mod.o;  true
