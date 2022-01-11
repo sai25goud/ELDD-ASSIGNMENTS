@@ -1,0 +1,1 @@
+cmd_/home/sai25goud/Documents/chardev1/ebbchar.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/sai25goud/Documents/chardev1/ebbchar.ko /home/sai25goud/Documents/chardev1/ebbchar.o /home/sai25goud/Documents/chardev1/ebbchar.mod.o;  true
